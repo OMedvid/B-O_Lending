@@ -1,0 +1,7 @@
+.button {
+  @include page-grid;
+
+  &__link {
+    @include button-style;
+  }
+}
