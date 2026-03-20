@@ -40,7 +40,7 @@ The project presents a modern and visually clean interface focused on premium au
 
 ## Design Reference
 
-- [Figma Design](https://www.figma.com/https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=8DJxqCYYAUjyMi4B-0)
+- [Figma Design](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=8DJxqCYYAUjyMi4B-0)
 
 ---
 
